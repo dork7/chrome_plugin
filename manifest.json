@@ -2,6 +2,7 @@
     "name": "newPlugin",
     "version": "1.0",
     "manifest_version": 2,
+    "web_accessible_resources": ["*.jpg","*.JPG"],
     "content_scripts": [
         {
             "matches": [

@@ -1,19 +1,24 @@
 {
-    "name": "plugin",
+    "name": "newPlugin",
     "version": "1.0",
     "manifest_version": 2,
     "content_scripts": [
         {
             "matches": [
-                "<all_urls>"
+                "http://*/*" ,"https://*/*"
             ],
             "js": [
-                "content.js"
+                "content.js",
+                "src/qrcode.js"
             ]
+            
         }
     ],
     "browser_action": {
         "default_popup" : "popup.html",
         "default_title": "button"
-    }
+    },  
+    "permissions" : [
+        "http://*/*" , "https://*/*"
+    ]
 }

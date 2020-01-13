@@ -1,0 +1,488 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"rec_fun"
+			],
+			[
+				"sel",
+				"sel_srch"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"pop",
+				"popIndex"
+			],
+			[
+				"new",
+				"newStr2"
+			],
+			[
+				"in",
+				"index2"
+			],
+			[
+				"mi",
+				"minPosition"
+			],
+			[
+				"b",
+				"binarySrch"
+			],
+			[
+				"bina",
+				"binarySearch"
+			],
+			[
+				"bi",
+				"binarySearch"
+			],
+			[
+				"bin",
+				"binarySrch"
+			],
+			[
+				"ser",
+				"serialWrite"
+			],
+			[
+				"te",
+				"testing"
+			],
+			[
+				"com",
+				"comboBox_1"
+			],
+			[
+				"colo",
+				"colorChange"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"lab",
+				"label_4"
+			],
+			[
+				"ui",
+				"Ui_Form"
+			],
+			[
+				"share",
+				"sharedMemPtr"
+			],
+			[
+				"h",
+				"headerByteCHK"
+			],
+			[
+				"he",
+				"headerByte"
+			],
+			[
+				"sha",
+				"sharedMemPtr"
+			],
+			[
+				"In",
+				"include"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"gete",
+				"getEqu"
+			],
+			[
+				"getbu",
+				"getBull"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"c",
+				"counter"
+			],
+			[
+				"st",
+				"staticfunction"
+			],
+			[
+				"box",
+				"box1"
+			],
+			[
+				"vo",
+				"Volume"
+			],
+			[
+				"intp",
+				"intpublic"
+			],
+			[
+				"int",
+				"intpublic"
+			],
+			[
+				"get",
+				"getMultiRect"
+			],
+			[
+				"Rec",
+				"Rectangle"
+			],
+			[
+				"ge",
+				"gettWidth"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"poin",
+				"points2"
+			],
+			[
+				"pilo",
+				"pilotName"
+			],
+			[
+				"form",
+				"formData2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"python de",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/hamza/Videos/DMP_GC_BAKS/NescomDemo-18*/shm_server.cpp",
+		"/home/hamza/Documents/Qr_code/src/qrcode.js",
+		"/home/hamza/Documents/Qr_code/LICENSE",
+		"/home/hamza/Documents/Qr_code/index.html",
+		"/home/hamza/Documents/Qr_code/README.md",
+		"/home/hamza/Documents/davidshimjs-qrcodejs-04f46c6/README.md",
+		"/media/hamza/01D327AE4ED793A0/donot-touch/Untitled Document",
+		"/home/hamza/Documents/EasyQRCodeJS-master/Gruntfile.js",
+		"/home/hamza/Documents/davidshimjs-qrcodejs-04f46c6/bower.json",
+		"/home/hamza/Documents/davidshimjs-qrcodejs-04f46c6/index-svg.html",
+		"/home/hamza/Documents/davidshimjs-qrcodejs-04f46c6/index.html",
+		"/home/hamza/Documents/Qr_Code/index.html",
+		"/home/hamza/bashloop.sh",
+		"/home/hamza/Documents/davidshimjs-qrcodejs-04f46c6/qrcode.js",
+		"/media/hamza/01D327AE4ED793A0/commandsforsetup",
+		"/home/hamza/Documents/Qt_pros/QT_socket_Programming/README.md",
+		"/home/hamza/Documents/Qt_pros/QT_socket_Programming/multiThreadServer/mserver.cpp",
+		"/media/hamza/01D327AE4ED793A0/OpenGL-and-GDAL-Tutorials-master/tutorial4-1/README.md",
+		"/home/hamza/Documents/Qt_pros/QT_socket_Programming/qt_QSocket/qt_QSocket.pro",
+		"/media/hamza/39d9e598-432c-49d9-a61b-669b18f24898/fileWriting",
+		"/media/hamza/39d9e598-432c-49d9-a61b-669b18f24898/shm_server.cpp",
+		"/home/hamza/Documents/Qt_pros/QT_socket_Programming/QT_server/mainwindow.cpp",
+		"/home/hamza/Music/graphicVisuals/sound-of-sorting-0.6.5-linux32-64/README.txt",
+		"/home/hamza/Music/graphicVisuals/old/bubble_sort.c",
+		"/home/hamza/Music/graphicVisuals/demo.cpp",
+		"/home/hamza/Music/graphicVisuals/graphics-installer.sh",
+		"/home/hamza/Music/bubble_sort.c",
+		"/home/hamza/Music/graphicVisuals/sound-of-sorting-0.6.5/README.md",
+		"/home/hamza/Music/scholo/extra_info",
+		"/home/hamza/Music/scholo/FINAL",
+		"/home/hamza/Music/scholo/Motivation letter for a Master's in Computer Scien",
+		"/home/hamza/Music/scholo/Dear Sir or Madam",
+		"/home/hamza/dev/NescomDemo/shm_server.cpp",
+		"/home/hamza/cdu-ibrahim 1-2 20-12-19 Day End Final/SerialPortReceiver/newDataReceiver.c",
+		"/home/hamza/cdu-ibrahim 1-2 20-12-19 Day End Final/SerialPortReceiver/newCrashingDataReceiver.c",
+		"/home/hamza/label_graphicitems.cpp",
+		"/home/hamza/CDU27-12-19DayStart/CDU-II/wxsmith/fixPanel.wxs",
+		"/home/hamza/CDU 27-12-19 Day End/CDU-II/guidPanel.cpp",
+		"/home/hamza/Music/33333/extra/fresher.md",
+		"/home/hamza/Music/33333/extra/prototypingtools.md",
+		"/home/hamza/Music/33333/extra/freePortfolio",
+		"/home/hamza/Music/33333/extra/productivity_tip.md",
+		"/home/hamza/label_graphicitems",
+		"/home/hamza/cdu-ibrahim 1-2 20-12-19 Day End Final/CDU-II/wxsmith/atkPanel.wxs",
+		"/home/hamza/cdu-ibrahim 1-2 20-12-19 Day End Final/CDU-II/dclPanel.cpp",
+		"/home/hamza/cdu-ibrahim 1-2 20-12-19 Day End Final/SerialPortReceiver/Makefile",
+		"/home/hamza/writing_reply.cpp",
+		"/home/hamza/Videos/NescomDemo-12/shm_server_working.cpp",
+		"/home/hamza/Videos/NescomDemo_GC/shm_server.cpp",
+		"/home/hamza/Videos/GC_BAKUP_DEC_10/NescomDemo-14/shm_server_working.cpp",
+		"/home/hamza/Videos/GC_BAKUP_DEC_10/NescomDemo-tk1/shm_server.cpp",
+		"/home/hamza/Videos/GC_BAKUP_DEC_10/Untitled Folder 2/code by arshan bahi",
+		"/home/hamza/Videos/GC_BAKUP_DEC_10/NescomDemo-14/shm_server.cpp",
+		"/home/hamza/Videos/GC_BAKUP_DEC_10/NescomDemo_8-dec-GC_working/shm_server.cpp",
+		"/home/hamza/replace.sh",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-II/wxsmith/atkPanel.wxs",
+		"/home/hamza/Documents/Qt_pros/opengl/opengl/opengl.pro",
+		"/home/hamza/Music/scholo/extra/riddles.md",
+		"/media/hamza/01D327AE4ED793A0/CDU_DATA/WSS/wssPanel.cpp",
+		"/media/hamza/01D327AE4ED793A0/CDU_DATA/WSS/wssPanel.h",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/curve.h",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/curve.cpp",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-II/wxsmith/cdiPanel.wxs",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/CDU-II.cbp",
+		"/home/hamza/CDU-both/SerialPortReceiver/DataReceiver.c",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/glclass.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/altPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/atkPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/cdiPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/dclPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/emgPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/fixPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/flpPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/nauPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/navPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/tstPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/wssPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/atoaPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/CDU_IIApp.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/guidPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/menuPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/CDU_IIMain.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/clockPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/imageloader.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/manualPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/mflpflPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/navHSIPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/forbiddenPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/restorewssPanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/maintenancePanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/maintenanceCurvePanel.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/src/CduTimer.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/src/WayPointData.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/src/MyListElement.cpp",
+		"/home/hamza/CDU/CDU-13122019/CDU/CDU-II/wxsmith/atkPanel.wxs",
+		"/media/hamza/01D327AE4ED793A0/CDU_DATA/CDU-13122019/CDU/CDU-II/wxsmith/altPanel.wxs",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/emgPanel.cpp",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/tstPanel.cpp",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-II/maintenancePanel.cpp",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-II/maintenanceCurvePanel.cpp",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-II/emgPanel.cpp",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-II/maintenanceCurvePanel.h",
+		"/home/hamza/Desktop/replace.sh",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/wxsmith/tstPanel.wxs",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-II/wxsmith/emgPanel.wxs",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/wxsmith/emgPanel.wxs",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/guidPanel.cpp",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/fixPanel.cpp",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-II/tstPanel.cpp",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/src/MyListElement.cpp",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/src/CduTimer.cpp",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/restorewssPanel.cpp",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/forbiddenPanel.cpp",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/mflpflPanel.cpp",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/manualPanel.cpp",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/clockPanel.cpp",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/wxsmith/menuPanel.wxs",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/menuPanel.cpp",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/wxsmith/altPanel.wxs",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/wxsmith/atkPanel.wxs",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/wxsmith/atoaPanel.wxs",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/wxsmith/cdiPanel.wxs",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/wxsmith/CDU_Iframe.wxs",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/wxsmith/CDU_IIframe.wxs",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/wxsmith/clockPanel.wxs",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/wxsmith/dclPanel.wxs",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/wxsmith/fixPanel.wxs",
+		"/home/hamza/CDU-both/cdu-ibrahim11-12-19/CDU-I/wxsmith/flpPanel.wxs"
+	],
+	"find":
+	{
+		"height": 19.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 19.0
+	},
+	"input":
+	{
+		"height": 64.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C Single File.sublime-build",
+	"project": "content.sublime-project",
+	"replace":
+	{
+		"height": 34.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 285.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 85.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

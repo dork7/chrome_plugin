@@ -11,7 +11,9 @@
             ],
             "js": [
                 "content.js",
-                "src/qrcode.js"
+                "src/qrcode.js",
+                 "src/iframe_api.js",
+                 "src/jquery.js"
             ]
             
         }

@@ -1,32 +1,47 @@
-
-chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
-
-  sendResponse({url: window.location.href})
-
-}) // sending response to content.js
-
-
-// chrome.runtime.onMessage.addListener((request, sender, sendResponse) => sendResponse('pong')); //sending response to content.js
-
-
-
-chrome.tabs.query({'active': true, 'lastFocusedWindow': true}, function (tabs) {
-    var url = tabs[0].url;
-
-
-    makeCode(url);
-    
-    console.log(url);
+window.addEventListener('load', (event) => {
+    chrome.tabs.executeScript(null,
+        { file: 'content.js' },
+        connect
+        );
 });
-function makeCode(url){ 
-    var qrcode = new QRCode(document.getElementById("qrcode"), {
-        width : 200,
-        height : 200
-    });
-    qrcode.makeCode(url);
+
+function connect() {
+     document.getElementById("qrcode").innerhtml = "";
+
+    chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
+    const port = chrome.tabs.connect(tabs[0].id);
+var url = tabs[0].url;
+                          if (url.includes("watch"))
+                         {
+    port.postMessage({ function: 'html' });
+    port.onMessage.addListener((response) => {
+      vtime = response.vtime;
+      title = response.title;
+
+
+        mURL = url.concat("?t=",vtime); // getting url and concatinatin with time
+
+
+        makeCode(mURL); // making QrCode
+////// to display things in popup
+//        const div = document.createElement('div')
+//        div.textContent = mURL
+//      document.body.appendChild(div)
+        });
+    }
+     else {
+         makeCode(url);
+     }
+
+
+});
+
 }
 
- 
- // var vid = $('video').get(0);
- // alert(vid);
- // console.log(vid.getCurrentTime());
+function makeCode(url){
+    var qrcode = new QRCode(document.getElementById("qrcode"), {
+                                width : 200,
+                                height : 200
+                            });
+    qrcode.makeCode(url);
+}

@@ -5,19 +5,21 @@ window.addEventListener('load', (event) => {
         );
 });
 
-function connect() {
-   document.getElementById("qrcode").innerhtml = "";
 
-   chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
-    const port = chrome.tabs.connect(tabs[0].id);
+function connect() {
+ document.getElementById("qrcode").innerhtml = "";
+
+ chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
     var url = tabs[0].url;
     if (url.includes("watch"))
     {
+        var port = chrome.tabs.connect(tabs[0].id);
+        document.getElementById("qrcode").innerhtml = "";
         port.postMessage({ function: 'html' });
         port.onMessage.addListener((response) => {
           vtime = response.vtime;
           title = response.title;
-
+          response = "";
 
         mURL = url.concat("?t=",vtime); // getting url and concatinatin with time
 
@@ -27,12 +29,16 @@ function connect() {
 //        const div = document.createElement('div')
 //        div.textContent = mURL
 //      document.body.appendChild(div)
-});
+
+
+
+         port.disconnect();
+    });
     }
     else {
         // if the current tab is not a youtube video this will execute
-       makeCode(url);
-   }
+        makeCode(url);
+    }
 
 
 });

@@ -5,7 +5,7 @@ chrome.runtime.onConnect.addListener((port) => {
     if (msg.function == 'html') {
       var video = document.getElementsByTagName("video")[0];
       //console.log(video.currentTime);
-      port.postMessage({ vtime: video.currentTime , title: document.title });
+      port.postMessage({ vtime: parseInt(video.currentTime) , title: document.title });
       }
   });
 });
